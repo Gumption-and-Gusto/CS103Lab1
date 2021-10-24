@@ -1,0 +1,9 @@
+1. Display welcome per output
+2. Underline with function
+3. Draw hangman with function
+4. Take user input for answer variable
+5. Assign return value of Play function with answer variable as argument to result variable
+6. Play function returns 1 if passed 'o' or 'O', otherwise returns 0
+7. If result is 1, notify player of win and draw walkman with Win function
+8. Otherwise, repeat from step 4 unless it is the third guess
+9. If all three guesses have been wrong, notify player of loss and draw inverted hangman with InvertedHangMan function.
